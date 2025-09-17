@@ -18,6 +18,10 @@ Model trained with regularization and hyperparameter tuning
 
 ![WhatsApp Image 2025-09-17 at 20 27 32_d933f13c](https://github.com/user-attachments/assets/5e4c7e15-b601-4097-b2bf-4c1381229aa3)
 
+**Model Performance **
+
+![WhatsApp Image 2025-09-17 at 19 14 32_ac7be34c](https://github.com/user-attachments/assets/ea8773bd-a6b5-40b5-a5b2-d1cf708b1f32)
+
 
 **Demo**
 
