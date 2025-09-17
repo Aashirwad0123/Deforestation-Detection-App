@@ -11,9 +11,11 @@ Batch and single image prediction support
 Model trained with regularization and hyperparameter tuning
 
 **Flowchart**
+
 ![WhatsApp Image 2025-09-17 at 20 29 04_be22346c](https://github.com/user-attachments/assets/a6368ec8-22d1-44fa-a205-a76ced2297d3)
 
 **Block Digram **
+
 ![WhatsApp Image 2025-09-17 at 20 27 32_d933f13c](https://github.com/user-attachments/assets/5e4c7e15-b601-4097-b2bf-4c1381229aa3)
 
 
@@ -30,22 +32,27 @@ Model trained with regularization and hyperparameter tuning
 **Getting Started**
 
 Prerequisites
+
 _Python 3.8+
 pip_
 
 Installation
 
 **Clone the repository:**
+
 git clone https://github.com/Aashirwad0123/Deforestation-Detection-App.git
 cd Deforestation-Detection-App 
 
 **Install dependencies:**
+
 pip install -r requirements.txt
 
 **Download the trained model:**
+
 Place your best_model_1.pth file in the project root directory
 
 **Running the App**
+
 streamlit run app.py
 
 Open the provided local URL in your browser.
@@ -77,10 +84,15 @@ Training: Data augmentation, weight decay, learning rate scheduling
 **Acknowledgements**
 
 PyTorch
+
 Streamlit
+
 Torchvision
 
 **Project Members**
 Aashirwad Mehare 
+
 Ravindra Shelar 
+
 Siddhesh K Mangarule
+
