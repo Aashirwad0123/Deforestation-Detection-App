@@ -10,6 +10,11 @@ User-friendly web interface (Streamlit)
 Batch and single image prediction support
 Model trained with regularization and hyperparameter tuning
 
+**Dataset**
+
+https://data.mendeley.com/datasets/59xmzmcsjz/1 
+
+
 **Flowchart**
 
 ![WhatsApp Image 2025-09-17 at 20 29 04_be22346c](https://github.com/user-attachments/assets/a6368ec8-22d1-44fa-a205-a76ced2297d3)
