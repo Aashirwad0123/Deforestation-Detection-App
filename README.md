@@ -14,7 +14,7 @@ Model trained with regularization and hyperparameter tuning
 
 ![WhatsApp Image 2025-09-17 at 20 29 04_be22346c](https://github.com/user-attachments/assets/a6368ec8-22d1-44fa-a205-a76ced2297d3)
 
-**Block Digram **
+**Block Digram**
 
 ![WhatsApp Image 2025-09-17 at 20 27 32_d933f13c](https://github.com/user-attachments/assets/5e4c7e15-b601-4097-b2bf-4c1381229aa3)
 
@@ -78,8 +78,11 @@ Analyze results and download outputs if needed
 **Model Details**
 
 Architecture: ResNet50 with dropout regularization
+
 Framework: PyTorch, torchvision
+
 Training: Data augmentation, weight decay, learning rate scheduling
+
 
 **Acknowledgements**
 
