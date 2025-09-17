@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-09-17 at 20 32 04_d3ac9e75](https://github.com/user-attachments/assets/5bf06e71-3d10-4fa9-b102-acb4a19d9e49)![WhatsApp Image 2025-09-17 at 20 32 04_00481306](https://github.com/user-attachments/assets/388e63f1-bdfb-4c9f-9b9d-1ff32b6a3b1a)**Deforestation Detection App** 
+**Deforestation Detection App** 
 
 A deep learning web application for detecting deforestation from satellite images using PyTorch and ResNet50. The app provides predictions, Grad-CAM visualizations, and an interactive interface for users to upload and analyze images.
 
@@ -20,8 +20,11 @@ Model trained with regularization and hyperparameter tuning
 **Demo**
 
 ![WhatsApp Image 2025-09-17 at 20 32 04_00481306](https://github.com/user-attachments/assets/fbc3efa7-f455-40f2-87e2-71cd037aaef4)
+
 ![WhatsApp Image 2025-09-17 at 20 32 18_b43bf647](https://github.com/user-attachments/assets/f3e3e9ff-6cd0-4292-b43a-a312e3612da3)
+
 ![WhatsApp Image 2025-09-17 at 20 33 01_c15e5b88](https://github.com/user-attachments/assets/455fb64c-1a3b-4f21-9faa-a0cc899053d8)
+
 ![WhatsApp Image 2025-09-17 at 20 33 16_3500e8d7](https://github.com/user-attachments/assets/7488176e-e463-4462-8b54-e88a67cb6695)
 
 **Getting Started**
